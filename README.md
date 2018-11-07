@@ -6,7 +6,7 @@ The repo contains following dataset(s):
 * Participant tracking of Leviticus 17-26
 
 ## Licence
-This work is licensed under a Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). That means:
+This work is licensed under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). That means:
 
 * You may download the data and use it: process, copy, modify;
 * You may use the data to create new software applications;
